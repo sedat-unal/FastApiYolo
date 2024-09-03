@@ -1,0 +1,4 @@
+fastapi
+ultralytics
+pydantic
+uvicorn
